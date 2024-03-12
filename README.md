@@ -1,1 +1,6 @@
-# RSPCamera
+# React Native RSPCamera
+
+![rspCameraApp](https://github.com/acepraveen/React-Native-RSPCamera/assets/53901682/991ef5f4-d6d1-4501-8478-63f6197dfd04)
+
+
+### Introducing our cutting-edge React Native camera app: Capture stunning photos and videos in breathtaking 4K resolution, complete with flash capabilities for low-light conditions. Seamlessly switch between various beauty modes to enhance your images and videos with filters and effects. Additionally, utilize the built-in scanner feature to effortlessly scan any QR code, providing convenience and efficiency on the go. Whether you're capturing picturesque landscapes or recording memorable moments, our app offers unparalleled versatility and quality. With its intuitive interface and advanced functionalities, users can easily navigate through the app's features and unleash their creativity. Stay ahead of the curve with our innovative camera app, designed to meet the demands of modern photography and videography. Whether you're a professional photographer or an amateur enthusiast, our app caters to all levels of expertise, empowering users to capture and create stunning visual content effortlessly. Experience the future of mobile photography and videography with our feature-rich React Native camera app.
